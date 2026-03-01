@@ -1,3 +1,6 @@
+layout: project
+title: Nutcracker Design
+
 Problem Statement:
 A nutcracker must be deisgned to allow a human to crack macadamia nuts. 
 
