@@ -15,7 +15,7 @@ Macadamia nuts have  some of the most difficult shells to crack, with an average
 Approach to problem:
 I decided to make the nutcracker mechanically very simple to allow easy manufacturing and assembly. The desing uses a large bearing to connect two simple rods. The nut is placed as close to the pivot as possible to maximize mechanical advantage.
 
-Diagram:
+Drawing:
 ![Drawing](<../assets/images/Screenshot 2026-03-01 115659.png>)
 
 Usability:
