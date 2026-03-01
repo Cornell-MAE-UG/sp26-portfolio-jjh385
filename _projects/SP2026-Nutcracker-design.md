@@ -4,6 +4,7 @@ title: Nutcracker Design
 image: /_projects/image.png
 description: Class project
 technologies: []
+---
 Problem Statement:
 A nutcracker must be deisgned to allow a human to crack macadamia nuts. 
 
